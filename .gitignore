@@ -1,3 +1,6 @@
 scratch/*
 
 .env
+
+# node modules
+buildkite--platform/frontend/node_modules/*
