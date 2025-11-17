@@ -28,8 +28,7 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif)
 
-<p>I am a Platform Solutions Engineer with a passion for building platform tooling. My expertise spans DevOps, Machine Learning, and distributed systems.</p>
-  <p>In my latest <a href="https://github.com/DevOps-In-Motion/DevOps">project</a>, I built a way to leverage an LLMs slackbot to help devs debug their builds. </a> 🥳</p>
+<p>I am a Platform Solutions Engineer with a passion for building platform tooling. My expertise spans DevOps, Machine Learning, and distributed systems. In my latest <a href="https://github.com/DevOps-In-Motion/DevOps">project</a>, I built a way to leverage an LLMs slackbot to help devs debug their builds. </a> 🥳</p>
 <br />
 
 
