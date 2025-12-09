@@ -15,8 +15,12 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
 
 
 <p>
-  <h1 align="center"><b>Nice to meet you, I'm Allen Deon.</b> </h1>
+  <h1 align="center"><b>Nice to meet you, I'm Allen Deon | DevOps Engineer 🛠️</b> </h1>
 </p>
+
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif)
+
 <p align="center">
 <a href="https://linkedin.com/in/deon-saunders"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>&nbsp;
 <a href="https://github.com/DevOps-In-Motion/DevOps"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
@@ -26,9 +30,12 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
 </p>
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://github.com/degrasse-python/degrasse-python/blob/main/imgs/gokunimbus.gif)
+---
 
-<p>I am a Platform Solutions Engineer with a passion for building platform tooling. My expertise spans DevOps, Machine Learning, and distributed systems. In my latest <a href="https://github.com/DevOps-In-Motion/DevOps">project</a>, I built a way to leverage an LLMs slackbot to help devs debug their builds. </a> 🥳</p>
+
+
+
+<p>I am a DevOps Engineer with 5+ years of experience with a passion for building platform tooling. My expertise spans DevOps, Machine Learning, and distributed systems. 🌎 Cloud-Native. Secure. Scalable. Automated. I specialize in designing reliable, high-performance, and cloud-native platforms with a strong focus on automation, security, and scalability. Whether it's managing Kubernetes clusters, optimizing CI/CD pipelines, or securing cloud workloads, I build platforms that power the future. In my latest <a href="https://github.com/DevOps-In-Motion/DevOps">project</a>, I built a way to leverage an LLMs slackbot to help devs debug their builds. </a> 🥳</p>
 <br />
 
 
@@ -38,9 +45,32 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
 
 🐉 &emsp; Ask me about anything related to... my profile. I am happy to answer.
 
-<p></p>
+[Site Reliability Cheatsheet](https://github.com/DevOps-In-Motion/DevOps/blob/main/sre/README.md)
 
-<br />
+[Multi-tenant MCP Framework at Scale](https://github.com/DevOps-In-Motion/DevOps/tree/main/multitenant-k8s)
+
+[IDP built with Buildkite, TF, and Typescript on k8s](https://github.com/DevOps-In-Motion/DevOps/blob/main/internal_dev_platforms/buildkite--octopus/readme.md)
+
+<h2 align="center"> 🌩️ Cloud & Infra Stack</h2>
+
+
+☁️ **Cloud Providers**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+📦 **Containerization & Orchestration**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+⚙️ **DevOps & Automation**  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FD7E14?style=for-the-badge&logo=argo&logoColor=white)
+
+🛡 **Observability & Security**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 <p>
 <h2 align="center"> Languages and Tools 🛠</h2>
@@ -61,4 +91,27 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
   </a>
 </p>
 <br />
+
+
+
+
+
+
+
+## 🔥 What I Do
+
+💾 **Infrastructure Engineering** - Architecting **highly available** & **secure** internal platforms  
+🚀 **CI/CD Pipelines** - Automating deployments with **GitOps, Jenkins, Buildkite, & Kubernetes**  
+🌍 **Cloud Infrastructure** - Building multi-cloud setups with **IaC (Terraform, Ansible)**  
+🔬 **Observability** - Keeping systems **reliable & scalable** with **Prometheus**  
+🛡 **Cloud Security** - Implementing **zero-trust models, identity management, and threat detection**  
+🕵️ **Site Reliability Engineering (SRE)** - Ensuring **resilient & self-healing systems**  
+
+---
+
+
+- 🏗️ **[Real-Time Data Processing]()**
+- 💸 **[Cost Optimization for Kubernetes Workloads]()**
+- ⚡ **[Architecting Fault-Tolerant Hybrid Deployment]()**
+
 
