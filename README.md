@@ -45,6 +45,14 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
 
 🐉 &emsp; Ask me about anything related to... my profile. I am happy to answer.
 
+<h2 align="center"> ⚙️ Projects ⚙️</h2>
+<p align="center">
+  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" alt="Projects Banner" width="400"/><br>
+  <i>Crafting, automating, and scaling platforms that empower engineers and organizations.</i>
+</p>
+
+
+
 [Site Reliability Cheatsheet](https://github.com/DevOps-In-Motion/DevOps/blob/main/sre/README.md)
 
 [Multi-tenant MCP Framework at Scale](https://github.com/DevOps-In-Motion/DevOps/tree/main/multitenant-k8s)
