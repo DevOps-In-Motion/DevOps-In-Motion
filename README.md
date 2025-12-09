@@ -46,8 +46,6 @@ Here are some ideas to get you starthttps://github.com/DevOps-In-Motion/DevOpsed
 🐉 &emsp; Ask me about anything related to... my profile. I am happy to answer.
 
 <h2 align="center"> ⚙️ Projects ⚙️</h2>
-<p align="center">
-  <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" alt="Projects Banner" width="100%" style="object-fit: cover; object-position: center; height: 40px;"/><br>
   <i>Crafting, automating, and scaling platforms that empower engineers and organizations.</i>
 </p>
 
